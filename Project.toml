@@ -1,0 +1,7 @@
+name = "TurbulenceConvectionArtifacts"
+uuid = "4f7d9633-fb00-4d65-9c2c-4db3692d1627"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
